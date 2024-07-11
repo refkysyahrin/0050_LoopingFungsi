@@ -8,4 +8,10 @@ int main()
     srand(time(0));
 
     bilangan = rand() % 10;
+
+    cout << "Bilangan awal = " << bilangan << endl;
+    do
+    {
+        
+    }
 }
