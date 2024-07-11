@@ -15,5 +15,6 @@ int main()
         cout << "Perulangan DO..WHILE" << endl;
         bilangan = rand() % 10;
         cout << "Bilangannya = " << bilangan << endl;
-    }
+
+    } while (bilangan > 5);
 }
