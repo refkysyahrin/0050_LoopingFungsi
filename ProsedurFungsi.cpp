@@ -7,5 +7,12 @@ string nama;
 
 void input()
 {
-    
+    cout << "Masukan Nama = ";
+    cin >> nama;
+    cout << "Masukan Jumlah Telor = ";
+    cin >> nTelor;
+    cout << "Masukan Jumlah Mie = ";
+    cin >> nMie;
+    cout << "Masukan Jumlah Air Mineral = ";
+    cin >> nAir;
 }
