@@ -12,6 +12,6 @@ int main()
     cout << "Bilangan awal = " << bilangan << endl;
     do
     {
-        
+        cout << "Perulangan DO..WHILE" << endl;
     }
 }
