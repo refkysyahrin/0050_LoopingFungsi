@@ -13,5 +13,7 @@ int main()
     do
     {
         cout << "Perulangan DO..WHILE" << endl;
+        bilangan = rand() % 10;
+        cout << "Bilangannya = " << bilangan << endl;
     }
 }
